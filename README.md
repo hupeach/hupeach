@@ -55,17 +55,14 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yxn4065/count.svg)
 ### Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,pytorch,git,raspberrypi,docker,vim,pycharm,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,pytorch,git,vim,pycharm,mysql，hadoop" />
   </a>
 </p>
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=yxn4065&abbreviated=true&color=yellow" />
+<img src="https://komarev.com/ghpvc/?username=hupeach&abbreviated=true&color=yellow" />
 <a href="https://github.com/yxn4065"><img src="https://img.shields.io/badge/GitHub-yxn4065-blue?logo=github" /></a>
-<a href="https://yxn4065.blog.csdn.net"><img src="https://img.shields.io/badge/CSDN-Xenon_AI-red" /></a>
-<img src="https://img.shields.io/badge/QQ-2038865970-green?logo=tencentqq" />
-<img href="mailto:xenon4065@gmail.com" src="https://img.shields.io/badge/xenon4065@gmail.com-D14836?logo=gmail&logoColor=white" />
 </p>
 
 
@@ -77,17 +74,17 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yxn4065/count.svg)
     <tr>
       <!-- 第一个图片 -->
       <td align="center">
-        <img height='200' src="https://github-readme-stats.vercel.app/api?username=yxn4065&show_icons=true" />
+        <img height='200' src="https://github-readme-stats.vercel.app/api?username=hupeach&show_icons=true" />
       </td>
       <!-- 第二个图片 -->
       <td align="center">
-        <img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxn4065&layout=compact" />
+        <img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hupeach&layout=compact" />
       </td>
     </tr>
     <!-- 第三个图片 -->
     <tr>
       <td colspan="2" align="center">
-        <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=yxn4065&theme=github-compact&hide_border=true&area=true" />
+        <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=hupeach&theme=github-compact&hide_border=true&area=true" />
       </td>
     </tr>
   </table>
@@ -99,7 +96,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yxn4065/count.svg)
 <!-- [![wakatime](https://wakatime.com/badge/user/7cf3d334-b735-41ee-9f43-1782380b513b.svg)](https://wakatime.com/@7cf3d334-b735-41ee-9f43-1782380b513b) -->
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yxn4065&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=hupeach&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C936%20hrs%2016%20mins-blue)
 
@@ -145,10 +142,10 @@ Sunday                   1 commits           █░░░░░░░░░░�
 Other                    4 hrs 17 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   4 hrs 17 mins       █████████████████████████   100.00 % 
+vscode                   4 hrs 17 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PythonCode5              4 hrs 17 mins       █████████████████████████   100.00 % 
+shop data anysis         4 hrs 17 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Windows                  4 hrs 17 mins       █████████████████████████   100.00 % 
