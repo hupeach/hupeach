@@ -101,16 +101,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yxn4065/count.svg)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 70.9 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 5 Public Repositories 
- > 
-> 🔑 2 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -135,7 +125,7 @@ Sunday                   1 commits           █░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
+🕑︎ Time Zone：China
 
 💬 Programming Languages: 
 Other                    4 hrs 17 mins       █████████████████████████   100.00 % 
@@ -150,15 +140,6 @@ shop data anysis         4 hrs 17 mins       ███████████�
 Windows                  4 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Python** 
-
-```text
-Python                   6 repos             ██████████████░░░░░░░░░░░   54.55 % 
-C++                      2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-```
 
 
 
