@@ -61,7 +61,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yxn4065/count.svg)
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=hupeach&abbreviated=true&color=yellow" />
-<a href="https://github.com/hupeach"><img src="https://img.shields.io/badge/GitHub-yxn4065-blue?logo=github" /></a>
+<a href="https://github.com/hupeach"><img src="https://img.shields.io/badge/GitHub-hupeach-blue?logo=github" /></a>
 </p>
 
 
