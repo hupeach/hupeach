@@ -107,7 +107,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yxn4065/count.svg)
  > 
 > 💼 Opted to Hire
  > 
-> 📜 7 Public Repositories 
+> 📜 5 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
