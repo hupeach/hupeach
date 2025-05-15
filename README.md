@@ -44,6 +44,19 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yxn4065/count.svg)
 <!-- 贪吃蛇 -->
 ![](https://raw.githubusercontent.com/yxn4065/yxn4065/refs/heads/output/github-contribution-grid-snake.svg)
 
+### 🤺 Saying
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
+
+<p>&emsp;&emsp;嗨，你好，我是小王同学。喜欢codinng,game,travel,photo。</p>
+<p>&emsp;&emsp;是一名大数据专业的学生，渴望成为一名有价值的科研工作者。</p>
+<p>&emsp;&emsp;有匪君子，如切如磋，如琢如磨。</p>
+<p>&emsp;&emsp;陌生人，祝你早安、午安、晚安。You are the best!</p>
+<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+
+</td></tr>
+
+<tr><td>
 
 ### Skills
 <p align="center">
