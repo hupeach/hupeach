@@ -60,7 +60,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yxn4065/count.svg)
 ### Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,pytorch,git,vim,pycharm,mysql，hadoop" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,pytorch,git,vim,pycharm,mysql" />
   </a>
 </p>
 
