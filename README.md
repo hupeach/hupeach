@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div align="center"><a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=我走入了蔚蓝平静的日子。;I'm+big-orange+Welcome+!&center=true&size=27"> </a> </div>
+<div align="center"><a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=我走入了蔚蓝平静的日子。;I'm+parasiting+Welcome+!&center=true&size=27"> </a> </div>
 <h3 align="center">大数据小白一枚</h3>
 
   ---
