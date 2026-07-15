@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <p>&emsp;&emsp;嗨，你好，我是小王同学。喜欢codinng, game, photo。</p>
 <p>&emsp;&emsp;天大顶级牛马一枚，从事RDMA研究，希望有一天能成为计算机糕糕手。</p>
 <p>&emsp;&emsp;有AI芯片相关企业工程经验，欢迎学习交流。</p>
-<p>&emsp;&emsp;未来想要从事AI Infra相关工作，欢迎学习交流。</p>
+<p>&emsp;&emsp;未来想要从事AI Infra相关工作，学习ing，欢迎学习交流。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 </td></tr>
@@ -55,31 +55,6 @@ Here are some ideas to get you started:
 </p>
 
 
----
-
-### About My Github
-<div align="center">
-  <table style="width:100%;">
-    <tr>
-      <!-- 第一个图片 -->
-      <td align="center">
-        <img height='200' src="https://github-readme-stats.vercel.app/api?username=hupeach&show_icons=true" />
-      </td>
-      <!-- 第二个图片 -->
-      <td align="center">
-        <img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hupeach&layout=compact" />
-      </td>
-    </tr>
-    <!-- 第三个图片 -->
-    <tr>
-      <td colspan="2" align="center">
-        <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=hupeach&theme=github-compact&hide_border=true&area=true" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
 
 
 <!-- https://github.com/kyechan99/capsule-render -->
