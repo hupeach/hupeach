@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 ### 🤺 Saying
 
 <p>&emsp;&emsp;嗨，你好，我是小王同学。喜欢codinng, game, photo。</p>
-<p>&emsp;&emsp;从事RDMA研究，希望有一天能成为计算机糕糕手。</p>
+<p>&emsp;&emsp;天大顶级牛马一枚，从事RDMA研究，希望有一天能成为计算机糕糕手。</p>
+<p>&emsp;&emsp;有AI芯片相关企业工程经验，欢迎学习交流。</p>
+<p>&emsp;&emsp;未来想要从事AI Infra相关工作，欢迎学习交流。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 </td></tr>
